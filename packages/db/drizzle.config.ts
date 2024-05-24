@@ -6,9 +6,6 @@ const databaseURL = serverConfig.dataDir
   ? `${serverConfig.dataDir}/db.db`
   : "./db.db";
 
-console.log("serverConfig.dataDir:", serverConfig.dataDir);
-console.log("Database URL:", databaseURL);
-
 export default {
   schema: "./schema.ts",
   out: "./drizzle",
