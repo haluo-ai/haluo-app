@@ -23,7 +23,7 @@ export default async function Sidebar() {
   return (
     <aside className="flex h-screen w-60 flex-col gap-5 border-r p-4">
       <Link href={"/dashboard/bookmarks"}>
-        <HaluoLogo height={20} gap="8px" />
+        <HaluoLogo height={40} gap="16px" />
       </Link>
       <Separator />
       <div>
