@@ -1,7 +1,7 @@
 export default function PrivacyPolicy() {
   return (
     <div className="p-4">
-      <title>Hoarder - Privacy Policy</title>
+      <title>Haluo - Privacy Policy</title>
       <strong>Privacy Policy</strong>
       <p>
         This privacy policy applies to the Hoarder App app (hereby referred to

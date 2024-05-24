@@ -21,14 +21,14 @@ import { clientConfig } from "@hoarder/shared/config";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Hoarder",
-  applicationName: "Hoarder",
+  title: "Haluo AI",
+  applicationName: "Haluo AI",
   description:
     "The Bookmark Everything app. Hoard links, notes, and images and they will get automatically tagged AI.",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
-    title: "Hoarder",
+    title: "Haluo AI",
   },
   formatDetection: {
     telephone: false,
